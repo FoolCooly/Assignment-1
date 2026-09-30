@@ -11,7 +11,7 @@ This program is about a MATLAB program to calculate 3D datas fitting to our leas
    
 ## Files
  
- - 'assignmentone.txt' is the input file containing the x, y,z coordinates pf the data points
+ - 'assignmentone.txt' is the input file containing the x, y,z coordinates of the data points
  - 'assgn_one.m' is the MATLAB script that import the data from the '.txt' file, calculate the least square plane, then display the results.
 
 
